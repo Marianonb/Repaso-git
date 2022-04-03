@@ -7,3 +7,4 @@
 6-git log : muestra tus commit
 7- git commit--amend : arregla tu ultimo commit
 8- git checkout -b rama-heroe "nombre de la rama".
+9- git checkout master. : vuelve a tu rama master.
