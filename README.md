@@ -13,4 +13,9 @@
 12. git branch -d "nombre de la rama" : borra la rama que ya no utilices.
 13. git push : subir tu repositorio.
 14. git commit -am "mensaje que quiero" : fusiona git add . y git commit -m
-15. git clone : Crea una copia local de un proyecto que ya existe de forma remota
+15. git clone : Crea una copia local de un proyecto que ya existe de forma remota.
+16. ls : nos permite ver el ontenido de la carpeta donde nos encontramos.
+17. cd : Nos permite movernos entre nuestras carpetas.
+18. mkdir "nombre de la carpeta" : Crea una nueva carpeta en el directorio donde nos encontramos.
+19. touch "nombre del archivo" : crea un nuevo archivo.
+20.rm : Elimina de forma PERMANENTE un archivo. 
