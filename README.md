@@ -8,3 +8,7 @@
 7- git commit--amend : arregla tu ultimo commit
 8- git checkout -b rama-heroe "nombre de la rama".
 9- git checkout master. : vuelve a tu rama master.
+10- git merge "nombre de la rama" fusiona las ramas
+11- git branch: muestra en que rama te encuentras
+12- git branch -d "nombre de la rama" : borra la rama que ya no utilices.
+13-
