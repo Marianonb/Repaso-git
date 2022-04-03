@@ -18,4 +18,5 @@
 17. cd : Nos permite movernos entre nuestras carpetas.
 18. mkdir "Nombre de la carpeta" : Crea una nueva carpeta en el directorio donde nos encontramos.
 19. touch "Nombre del archivo" : Crea un nuevo archivo.
-20.rm : Elimina de forma PERMANENTE un archivo. 
+20. rm : Elimina de forma PERMANENTE un archivo. 
+21. pwd : Nos ubica en que carpeta nos encontamos
